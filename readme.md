@@ -28,8 +28,8 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Neves-Rafael&&theme=xcode)](https://github.com/Neves-Rafael)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neves-Rafael&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neves-Rafael&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Neves-Rafael&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Neves-Rafael&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Neves-Rafael&&theme=tokyonight" alt="rishavchanda" /></p>

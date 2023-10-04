@@ -28,7 +28,7 @@
 
 <table>
   <tr>
-    <td colspan="2">
+    <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neves-Rafael&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" />
     </td>
   </tr>

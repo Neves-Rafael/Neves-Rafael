@@ -28,8 +28,8 @@
 
 <table>
   <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neves-Rafael&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" />
+    <td colspan="2">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neves-Rafael&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" />
     </td>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neves-Rafael&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" />

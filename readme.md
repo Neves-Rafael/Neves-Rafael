@@ -29,15 +29,15 @@
 <table>
   <tr>
     <td align="center" colspan="2">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neves-Rafael&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neves-Rafael&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Neves-Rafael" />
     </td>
   </tr>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neves-Rafael&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neves-Rafael&show_icons=true&locale=en&theme=tokyonight" alt="Neves-Rafael" />
     </td>
     <td >
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Neves-Rafael&&theme=tokyonight" alt="rishavchanda" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Neves-Rafael&&theme=tokyonight" alt="Neves-Rafael" />
     </td>
   </tr>
 </table>

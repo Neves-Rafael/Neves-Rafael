@@ -33,12 +33,12 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="right">
       <img src="https://github-readme-stats.vercel.app/api?username=Neves-Rafael&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" />
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="left">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neves-Rafael&&theme=tokyonight" alt="rishavchanda" />
     </td>
   </tr>

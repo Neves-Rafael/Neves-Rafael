@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **React, Typescript**
 
--  👨‍💻 All of my projects are available at [https://rafaelneves.net/](https://rafaelneves.net/)
-
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **nevesrafael.dev@gmail.com**

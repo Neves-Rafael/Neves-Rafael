@@ -3,7 +3,6 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png"/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Neves-Rafael&label=Profile%20views&color=0e75b6&style=flat" alt="Neves-Rafael" /> </p>
 
 
 - 🌱 Estou estudando: **React, Typescript**

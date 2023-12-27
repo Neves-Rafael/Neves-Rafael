@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="center">👩‍💻  About Me</h2>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h2 align="center">🛠 Language and tools</h2>
 
 ###
 
@@ -47,6 +47,9 @@
 
 ###
 
+<h2 align="center">🔥 My Status</h2>
+
+###
 
 <table>
   <tr>

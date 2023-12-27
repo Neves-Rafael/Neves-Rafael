@@ -19,19 +19,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Rafael Neves from Brazil. I'm currently studying Javascript for Fullstack seeking to improve more and more to have a positive impact on people through technology!<br><br>- 🔭 I'm available for work and freelance.<br>- 📚 I'm currently learning typescript and react.<br>-👨‍💻 Most of my projects are available on Github.<br>- ⚡ feel free to send me a message.</p>
+<p align="center">I'm Rafael Neves from Brazil. I'm currently studying Javascript for Fullstack seeking to improve more and more to have a positive impact on people through technology!<br><br>- 🔭 I'm available for work and freelance.<br>- 📚 I'm currently learning typescript and react.<br>-👨‍💻 Most of my projects are available on Github.<br>- ⚡ feel free to send me a message.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />

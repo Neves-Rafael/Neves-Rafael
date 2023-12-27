@@ -19,11 +19,11 @@
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="center">I'm Rafael Neves from Brazil. I'm currently studying Javascript for Fullstack seeking to improve more and more to have a positive impact on people through technology!<br><br>- 🔭 I'm available for work and freelance.<br>- 📚 I'm currently learning typescript and react.<br>-👨‍💻 Most of my projects are available on Github.<br>- ⚡ feel free to send me a message.</p>
+<p align="left">I'm Rafael Neves from Brazil. I'm currently studying Javascript for Fullstack seeking to improve more and more to have a positive impact on people through technology!<br><br>- 🔭 I'm available for work and freelance.<br>- 📚 I'm currently learning typescript and react.<br>-👨‍💻 Most of my projects are available on Github.<br>- ⚡ feel free to send me a message.</p>
 
 ###
 
@@ -47,16 +47,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neves-Rafael&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Neves-Rafael&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Neves-Rafael&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="" alt="stats graph"  />
-</div>
 
 <table>
   <tr>
     <td align="center" colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neves-Rafael&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="" alt="languages graph"  />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neves-Rafael&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
     </td>
   </tr>
   <tr>

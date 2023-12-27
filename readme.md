@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Rafael Neves from Brazil. I'm currently studying Javascript for Fullstack <br> seeking to improve more and more to have a positive impact on people through technology!<br><br>- 🔭 I'm available for work and freelance.<br>- 📚 I'm currently learning typescript and react.<br>-👨‍💻 Most of my projects are available on Github.<br>- ⚡ feel free to send me a message.</p>
+<p align="left">I'm Rafael Neves from Brazil. I'm currently studying Javascript for Fullstack <br> seeking to improve more and more to have a positive impact on people through technology!<br><br>- 🔭 I'm available for work and freelance.<br>- 📚 I'm currently learning typescript and react.<br>- 👨‍💻 Most of my projects are available on Github.<br>- ⚡ Feel free to send me a message.</p>
 
 ###
 

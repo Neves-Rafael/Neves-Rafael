@@ -15,23 +15,20 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Olá 👋</h1>
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  Sobre-min</h3>
 
 ###
 
 <p align="left">
-My name is Rafael Neves, from Brazil. I'm currently studying Javascript at RocketSeat for Fullstack.
-My positive points are determination, discipline and commitment to studies/activities.
- I seek to evolve my skills, through continuous learning with the aim of
-make a positive impact on people through technology!<br><br>- 🔭 I'm available for work and freelance.<br>- 📚 I'm currently learning typescript and react.<br>- 👨‍💻 Most of my projects are available on Github.<br>- ⚡ Feel free to send me a message.</p>
+Meu nome é Rafael Neves, Atualmente estou estudando Javascript na RocketSeat para Fullstack. Meus pontos positivos são determinação, disciplina e comprometimento com os estudos/atividades que desempenho. Busco evoluir minhas habilidades por meio do aprendizado contínuo, com o objetivo de trazer um impacto positivo na vida das pessoas por meio da tecnologia!<br><br>- 🔭 Estou disponível para trabalho e freelance.<br>- 📚 Atualmente, estou aprendendo TypeScript e React.<br>- 👨‍💻 A maioria dos meus projetos está disponível no Github..<br>- ⚡ Sinta-se à vontade para me enviar uma mensagem.</p>
 
 ###
 
-<h2 align="center">🛠 Language and tools</h2>
+<h2 align="center">🛠 Linguagens e Ferramentas</h2>
 
 ###
 
@@ -53,7 +50,7 @@ make a positive impact on people through technology!<br><br>- 🔭 I'm available
 <br>
 <br>
 <br>
-<h2 align="center">🔥 My Status</h2>
+<h2 align="center">🔥 Meus Status</h2>
 
 ###
 

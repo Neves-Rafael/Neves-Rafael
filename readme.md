@@ -24,7 +24,7 @@
 ###
 
 <p align="left">
-Meu nome é Rafael Neves, Atualmente estou estudando Javascript na RocketSeat para Fullstack. Meus pontos positivos são determinação, disciplina e comprometimento com os estudos/atividades que desempenho. Busco evoluir minhas habilidades por meio do aprendizado contínuo, com o objetivo de trazer um impacto positivo na vida das pessoas por meio da tecnologia!<br><br>- 🔭 Estou disponível para trabalho e freelance.<br>- 📚 Atualmente, estou aprendendo TypeScript e React.<br>- 👨‍💻 A maioria dos meus projetos está disponível no Github..<br>- ⚡ Sinta-se à vontade para me enviar uma mensagem.</p>
+Meu nome é Rafael Neves, Atualmente estou estudando Javascript na RocketSeat para Fullstack. Meus pontos positivos são determinação, disciplina e comprometimento com os estudos/atividades que desempenho. Busco evoluir minhas habilidades por meio do aprendizado contínuo, com o objetivo de trazer um impacto positivo na vida das pessoas por meio da tecnologia!<br><br>- 🔭 Estou disponível para trabalho e freelance.<br>- 📚 Atualmente, estou aprendendo TypeScript e React.<br>- 👨‍💻 A maioria dos meus projetos está disponível no Github.<br>- ⚡ Sinta-se à vontade para me enviar uma mensagem.</p>
 
 ###
 

@@ -71,3 +71,5 @@ Meu nome é Rafael Neves, Atualmente estou estudando Javascript na RocketSeat pa
 </table>
 
 ###
+
+<p align="left"> Feliz 2024! 🎉</p>

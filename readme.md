@@ -57,7 +57,7 @@ Meu nome é Rafael Neves, Atualmente estou estudando Javascript na RocketSeat pa
 <table>
   <tr>
     <td align="center" colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neves-Rafael&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neves-Rafael&locale=en&hide_title=false&layout=compact&card_width=370&langs_count=6&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
     </td>
   </tr>
   <tr>

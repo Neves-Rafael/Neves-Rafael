@@ -62,10 +62,10 @@ Meu nome é Rafael Neves, Atualmente estou estudando Javascript na RocketSeat pa
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Neves-Rafael&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+      <img src="https://github-readme-stats.vercel.app/api?username=Neves-Rafael&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="" alt="stats graph"  />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=Neves-Rafael&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+      <img src="https://streak-stats.demolab.com?user=Neves-Rafael&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="" alt="streak graph"  />
     </td>
   </tr>
 </table>
